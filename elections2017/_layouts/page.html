@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+{% include head.html %}
+
+<meta property="og:image" content="https://elections.sunwaysa.org/assets/meta_image.png" />
+<meta property="og:description" content="24 candidates. 10 positions. Your vote. Learn more about the candidates, their plans and their introductory video here!">
+
+</head>
+
+<body>
+
+{% include header.html %}
+
+<section class="header hero">
+	<div class="container">
+		<div class="row">
+			<div class="hero-text col-xs-12 col-sm-6 col-md-6 col-lg-5">
+				<h1>{{ page.title }}</h1>
+				<p>{{ page.description }}</p>
+                {% if page.cta %}
+				    <a href="{{ page.ctaLink }}" class="btn btn-primary btn-block">{{ page.cta }}</a>
+                {% endif %}
+			</div>
+		</div>
+	</div>
+</section>
+
+{{ content }}
+
+{% include footer.html %}
+
+</body>
+
+</html>
