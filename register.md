@@ -1,12 +1,12 @@
 ---
 layout: content
 title: Register
-description: "Candidate's Briefing: 11th April 2017 5.30PM @ Audi2"
+description: "Candidate's Briefing: 18th April 2017 5.30PM @ Audi2"
 ---
 
 ### Application Form
 To register, kindly fill up the application form, which can be obtained from:
-
+* [Candidate Application Form (PDF)](files/Candidate Application Form.pdf)
 * Sunway University Student Council Office, Student Hub
 
 ### How to Submit the Form
@@ -17,26 +17,27 @@ Once the application has been filled up, you may submit it via:
 
 We will send you a receipt of acknowledgement to affirm that we have received your application within two days of submission.
 
-__Application Deadline__: 7th April 2017
+__Application Deadline__: 12th April 2017
 
 ### Eligibility
 To be eligible to run for this election, you must be __a Sunway University student.__
 
 ### Election Timeline
-1. _Application period_ - 
-27th March 2017 to 7th April 2017
-2. _Last day of application_  -
-7th April 2017
-3. _Mandatory candidate's briefing_ -
-11th April 2017
-4. _Campaigning period_ -
-24th - 28th April 2017 
-5. _Town Hall Session_ -
-26th April 2017
-6. _Balloting_ -
-3rd to 6th May 2017
-7. _Announcement of results_ -
-8th of May 2017
+1. __Application period__ - 
+27th March 2017 to 12th April 2017
+2. __Last day of application__  -
+12th April 2017
+3. __Mandatory candidate's briefing__ -
+18th April 2017
+4. __Campaigning period__ -
+2nd - 5th May 2017
+5. __Town Hall Session__ -
+10th May 2017
+6. __Balloting__  - 
+8th - 12th May 2017
+7. __Announcement of results__ -
+15th of May 2017
+
 
 ### Files and References
 * [Sunway University Student Association Constitution (PDF)](files/SUSA_Constitution.pdf)

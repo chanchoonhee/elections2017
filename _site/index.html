@@ -67,7 +67,7 @@
                 </a>
             </div>
             <div class="navbar-item">
-                <h1>Elections 17’</h1>
+                <h1>Elections '17</h1>
             </div>
             <div id="hamburger_button" class="navbar-item navbar-hamburger navbar-fill">
                 <i class="fa fa-bars"></i>
@@ -84,6 +84,21 @@
 
 
 
+<script>
+	var countdowndate = new Date("Apr 12, 2017 17:30:00").getTime();
+	var x = setInterval(function(){
+		var now = new Date().getTime();
+		var distance = countdowndate - now;
+		if(distance<0){ distance= 0;}
+		var days = Math.floor(distance/ (1000*60*60*24));
+		var hours = Math.floor((distance%(1000*60*60*24))/(1000*60*60));
+		var minutes = Math.floor((distance%(1000*60*60))/(1000*60));
+		var seconds = Math.floor((distance%(1000*60))/1000);
+		
+		document.getElementById("timer").innerHTML= days+"d "+hours+"h "+minutes+"m "+seconds+"s ";
+
+	},1000);
+	</script>
 <!-- Landing -->
 <section id="landing" class="header">
 	<div class="container hero">
@@ -91,6 +106,7 @@
 			<div class="hero-text col-xs-12 col-sm-6 col-md-6 col-lg-5">
 				<h1>Join the Student Council Elections 2017</h1>
 				<p>The Student Council Elections are back again, and this year we want YOU! Pick a position that suits you and join us in making the campus experience better for all.</p>
+				<h1 style="color: #fff"id="timer"></h1>
 				<a href="/register" class="hero-link hero-link-primary"onclick="ga('send', 'event', 'Conversion', 'click', 'Landing')">Register Now <i class="fa fa-arrow-circle-right"></i></a>
 			</div>
 		</div>
@@ -221,15 +237,15 @@
 	
     
 	
-	<div class="accordion-item" id="advertisingpromotions-xs">
+	<div class="accordion-item" id="branding-xs">
 		<div class="accordion-toggle">
 			
-				Advertising & Promotions Director
+				Branding Director
 			
 			<i class="accordion-toggle-icon fa fa-chevron-down"></i>
 		</div>
 		<div class="accordion-content">
-			<p>The <strong>Advertising &amp; Promotions Director</strong> leads the Advertising &amp; Promotions department, which  is responsible for managing the Student Council’s publicity communication channels, provide  graphic designing skills and resources, promoting the Student Council’s activities, and  announcing relevant updates to the student body.</p>
+			<p>The <strong>Branding Director</strong> leads the Branding department, which  is responsible for managing the Student Council’s publicity communication channels, provide  graphic designing skills and resources, promoting the Student Council’s activities, and  announcing relevant updates to the student body.</p>
 
 <p><strong>Their key responsibilities include:</strong></p>
 
@@ -490,18 +506,18 @@
 		
         
 		
-		<div class="row positions-md-item" id="advertisingpromotions-sm">
+		<div class="row positions-md-item" id="branding-sm">
 			<div class="col-md-3 positions-md-item-info">
 				<span class="positions-md-item-title">
 					
-						Advertising & Promotions Director
+						Branding Director
 					
 				</span>
 				<span class="positions-md-item-interests">Perfect for people who like: <p>social media, public relations, graphic designing, and is highly aware of public image</p>
 </span>
 			</div>
 			<div class="col-md-9 positions-md-item-content">
-				<p>The <strong>Advertising &amp; Promotions Director</strong> leads the Advertising &amp; Promotions department, which  is responsible for managing the Student Council’s publicity communication channels, provide  graphic designing skills and resources, promoting the Student Council’s activities, and  announcing relevant updates to the student body.</p>
+				<p>The <strong>Branding Director</strong> leads the Branding department, which  is responsible for managing the Student Council’s publicity communication channels, provide  graphic designing skills and resources, promoting the Student Council’s activities, and  announcing relevant updates to the student body.</p>
 
 <p><strong>Their key responsibilities include:</strong></p>
 
@@ -644,7 +660,7 @@
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 col-sm-offset-4">
 				<h2>Be the change, make the change.<br /><a href="/register" class="hero-link hero-link-primary"onclick="ga('send', 'event', 'Conversion', 'click', 'Landing')">Register Now</a></h2>
-				<span class="help-block">Nomination Period: 27th March, 8:00am – 7th April, 5:30pm</span>
+				<span class="help-block">Nomination Period: 27th March, 8:00am – 12th April, 5:30pm</span>
 			</div>
 		</div>
 	</div>

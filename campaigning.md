@@ -56,7 +56,7 @@ There will be a sharing and Q&A session where students will ask you questions pe
 concerns and problems that they face. 
 
 * __What__: Town Hall Session
-* __When__: 26th April 2017, time TBA
+* __When__:  TBA
 * __Where__: TBA
 
 #### 6. General interaction with students
@@ -71,11 +71,18 @@ five (5) classrooms, and you will need to inform your respective PIC (person-in-
 * [Sunway University Student Association Election Regulations (PDF)](files/SUSA_ElectionRegulations.pdf)
 
 ### Election Timeline
-1. __Application period__  - 27th March 2017 to 7th April 2017
-2. __Last day of application__  - 7th April 2017
-3. __Mandatory candidate's briefing__  - 11th April 2017
-4. __Campaigning period__  - 24th - 28th April 2017 
-5. __Town Hall Session__  - 26th April 2017
-6. __Balloting__  - 2nd - 5th May 2017
-7. __Announcement of results__  - 8th of May 2017
+1. __Application period__ - 
+27th March 2017 to 12th April 2017
+2. __Last day of application__  -
+12th April 2017
+3. __Mandatory candidate's briefing__ -
+18th April 2017
+4. __Campaigning period__ -
+2nd - 5th May 2017
+5. __Town Hall Session__ -
+10th May 2017
+6. __Balloting__  - 
+8th - 12th May 2017
+7. __Announcement of results__ -
+15th of May 2017
 

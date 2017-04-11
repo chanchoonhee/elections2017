@@ -3,7 +3,21 @@ layout: default
 headline: "Join the Student Council Elections 2017"
 description: The Student Council Elections are back again, and this year we want YOU! Pick a position that suits you and join us in making the campus experience better for all.
 ---
+<script>
+	var countdowndate = new Date("Apr 12, 2017 17:30:00").getTime();
+	var x = setInterval(function(){
+		var now = new Date().getTime();
+		var distance = countdowndate - now;
+		if(distance<0){ distance= 0;}
+		var days = Math.floor(distance/ (1000*60*60*24));
+		var hours = Math.floor((distance%(1000*60*60*24))/(1000*60*60));
+		var minutes = Math.floor((distance%(1000*60*60))/(1000*60));
+		var seconds = Math.floor((distance%(1000*60))/1000);
+		
+		document.getElementById("timer").innerHTML= days+"d "+hours+"h "+minutes+"m "+seconds+"s ";
 
+	},1000);
+	</script>
 <!-- Landing -->
 <section id="landing" class="header">
 	<div class="container hero">
@@ -11,6 +25,7 @@ description: The Student Council Elections are back again, and this year we want
 			<div class="hero-text col-xs-12 col-sm-6 col-md-6 col-lg-5">
 				<h1>{{ page.headline }}</h1>
 				<p>{{ page.description }}</p>
+				<h1 style="color: #fff"id="timer"></h1>
 				<a href="/register" class="hero-link hero-link-primary"onclick="ga('send', 'event', 'Conversion', 'click', 'Landing')">Register Now <i class="fa fa-arrow-circle-right"></i></a>
 			</div>
 		</div>
@@ -78,7 +93,7 @@ description: The Student Council Elections are back again, and this year we want
 		<div class="row">
 			<div class="col-xs-12 col-sm-4 col-sm-offset-4">
 				<h2>Be the change, make the change.<br /><a href="/register" class="hero-link hero-link-primary"onclick="ga('send', 'event', 'Conversion', 'click', 'Landing')">Register Now</a></h2>
-				<span class="help-block">Nomination Period: 27th March, 8:00am – 7th April, 5:30pm</span>
+				<span class="help-block">Nomination Period: 27th March, 8:00am – 12th April, 5:30pm</span>
 			</div>
 		</div>
 	</div>
