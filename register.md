@@ -32,7 +32,7 @@ To be eligible to run for this election, you must be __a Sunway University stude
 4. __Campaigning period__ -
 2nd - 5th May 2017
 5. __Town Hall Session__ -
-10th May 2017
+3rd May 2017
 6. __Balloting__  - 
 8th - 12th May 2017
 7. __Announcement of results__ -
