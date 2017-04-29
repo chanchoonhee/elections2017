@@ -69,7 +69,7 @@ five (5) classrooms, and you will need to inform your respective PIC (person-in-
 ### Files
 * [Sunway University Student Association Constitution (PDF)](files/SUSA_Constitution.pdf)
 * [Sunway University Student Association Election Regulations (PDF)](files/SUSA_ElectionRegulations.pdf)
-*[2017 Elections Briefing Slides (PPTX)](files/)
+* [2017 Elections Briefing Slides (PPTX)](files/)
 ### Election Timeline
 1. __Application period__ - 
 27th March 2017 to 12th April 2017
