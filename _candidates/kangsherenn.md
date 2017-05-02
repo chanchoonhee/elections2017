@@ -1,6 +1,6 @@
 ---
 title: 'Kang Sher Enn • Candidate for Treasurer'
-id: sherenn
+id: kangsherenn
 name: 'Kang Sher Enn'
 position: Treasurer
 video_length: '1:45'
@@ -34,7 +34,7 @@ manifestos:
     - title: Manage the Council’s fund and accounts in an efficient and cost-effective manner
       content: Implement effective financial controls that focus on integrating cost and benefit information into the decision-making process to improve the overall performance of the Council.      
     - title: Practice meticulous bookkeeping
-      content:Ensure that every transaction is accounted for and that the accounts are up-to-date to better keep track of cash flows.
+      content: Ensure that every transaction is accounted for and that the accounts are up-to-date to better keep track of cash flows.
     - title: Ensure transparency and accountability in terms of usage of the Council’s fund
       content: Prevent the misuse of funds by allowing public access to relevant financial information.
     - title: Foster a strong sense of togetherness and inclusiveness

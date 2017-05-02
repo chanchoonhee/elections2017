@@ -38,19 +38,12 @@ experiences:
       
 manifestos:
     - title: Format a Standard Operation Procedure (SOP) to Tackle Academic Related Issues
-      content: 
-      a. Short-Term Goal – Produce Request Form, making it easier for students to get in touch with the department easily and for the department to manage the problem efficiently and effectively.
-
-      b. Long-Term Goal – Build a SOP Manual, having step-by-step instructions the department can take when dealing with different problems. However, the department needs to build more experience and more feedback from the students and management first before deciding what would be the general problems be and what would be the best way to handle it. 
+      content: Short-Term Goal – Produce Request Form, making it easier for students to get in touch with the department easily and for the department to manage the problem efficiently and effectively. Long-Term Goal – Build a SOP Manual, having step-by-step instructions the department can take when dealing with different problems. However, the department needs to build more experience and more feedback from the students and management first before deciding what would be the general problems be and what would be the best way to handle it. 
 
     - title: Provide a Consultation Room for Students to Voice Out Their Academic Related         Issues
-      content: 
-      a. Their academic affairs can be discussed in a more personal, private and confidential manner. 
-     
-      b. Can provide some security and relief to the student when there is a designated space for these issues. 
-      - title: Provide a 3 Step Verification Action Plan
-      content: 
-      a. Firstly, the department receives the request from a student with information about the issue. Next, the department must evaluate the information given by undergoing necessary inspections/investigations with the relevant party(s). Lastly, the department must provide and discuss the information collected back to and with the student(s) and it must be within a predetermined timeframe. Only then any solution or action can take place.
+      content: Their academic affairs can be discussed in a more personal, private and confidential manner. Can provide some security and relief to the student when there is a designated space for these issues. 
+    - title: Provide a 3 Step Verification Action Plan
+      content: a. Firstly, the department receives the request from a student with information about the issue. Next, the department must evaluate the information given by undergoing necessary inspections/investigations with the relevant party(s). Lastly, the department must provide and discuss the information collected back to and with the student(s) and it must be within a predetermined timeframe. Only then any solution or action can take place.
      
 others:
     - 0
