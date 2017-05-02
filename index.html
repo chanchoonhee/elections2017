@@ -25,6 +25,7 @@ description: We present to you the candidates for the term 2017/2018. View their
 			<div class="hero-text col-xs-12 col-sm-6 col-md-6 col-lg-5">
 				<h1>{{ page.headline }}</h1>
 				<p>{{ page.description }}</p>
+				<a href="/candidate" class="hero-link hero-link-primary" onclick="ga('send', 'event', 'Conversion', 'click', 'Landing')">View Candidates <i class="fa fa-arrow-circle-right"></i></a>
 				<p style = "color:#FFB600">Campaigning Period</p>
 				<h1 style="color: #fff"id="timer"></h1>
 				
@@ -36,6 +37,7 @@ description: We present to you the candidates for the term 2017/2018. View their
 
 <section id="candidates" class="container">
     <div class="row">
+		<h1>Candidates</h1>
         {% for candidate in site.candidates %}
         <div class="col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-0 col-md-3 col-md-offset-0">
 			<a href="/candidates/{{ candidate.slug }}" class="candidate-item">
